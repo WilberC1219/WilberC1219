@@ -3,8 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Wilber.<br>
-        Currently in search of entry level full time software engineer roles.<br>
+        Hi, I'm Wilber.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/wilber-claudio-114612b6">
